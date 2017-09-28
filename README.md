@@ -1,6 +1,6 @@
 # Bluetooth Low Energy in iOS Swift
 
-## Chapter 10: Large Data
+## Chapter 10: Streaming Data
 
 
 
